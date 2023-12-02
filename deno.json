@@ -1,0 +1,13 @@
+{
+  "fmt": {
+    "indentWidth": 2,
+    "lineWidth": 100,
+    "proseWrap": "always",
+    "semiColons": true,
+    "singleQuote": false,
+    "useTabs": false
+  },
+  "imports": {
+    "assert_equals": "https://deno.land/std@0.208.0/assert/assert_equals.ts"
+  }
+}
